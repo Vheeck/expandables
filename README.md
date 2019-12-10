@@ -1,7 +1,3 @@
-# Team-Expandables
-# NaijaHacks Hackathon 2019
-
-
 # NaijaHacks Hackathon 2019
 
 ## Team-Expandables
@@ -16,7 +12,12 @@ Naija Hacks Team Expandables Repository
 
 # Problem
 
-
+- High costs of property Development.
+- Limited Source of Funding.
+- Devaluation of the naira.
+- The ”Omo-onile” menace.
+- Bribery and Corruption.
+- Taxation.
 
 # Proposed Solution
 
@@ -61,118 +62,7 @@ improve education in Nigeria.
 # Top-level directory layout
 
     .
-    ├── data                    # GraphQl files (alternatively `graphql` or `server`)
-    ├── public                  # Compiled files (alternatively `dist`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── api                     # Back-End PHP files
+    ├── assets                  # Files pertaining to the Front-End (e.g images, css files, js files, e.t.c)
+    ├── index.html              # Index File (alternatively the app)
     └── README.md  
-    
-
-
-# How to setup project and run locally
-
-
-### Clone the repository
-
-`git clone https://github.com/Vheeck/team-expandable.git`
-
-### Install all dependencies
-
-* Using yarn
-
-`yarn install`
-
-* Using npm
-
-`npm install`
-
-### Clone the repository 
-
-```
-git clone https://github.com/Ahmzyjazzy/naijahacks-lazyload.git
-```
-
-### Install all dependencies
-
-Using yarn
-
-```
-yarn install
-```
-
-Using npm
-
-```
-npm install
-```
-
-### Start watching the file and changes
-
-Using yarn
-
-`yarn run watch`
-
-* Using npm
-
-
-`npm run watch`
-
-### Start the development server to serve static files and connect to database
-
-* Using yarn
-
-
-`yarn run serve`
-
-* Using npm
-
-`npm run serve`
-
-### Start project to test from the browser
-
-* Using yarn
-
-
-`yarn start`
-
-* Using npm
-
-
-`npm start`
-
-```
-yarn run watch
-```
-
-Using npm
-
-```
-npm run watch
-```
-
-### Start the development server to serve static files and connect to database
-
-Using yarn
-
-```
-yarn run serve
-```
-
-Using npm
-
-```
-npm run serve
-```
-
-### Start project to test from the browser
-
-Using yarn
-
-```
-yarn start
-```
-
-Using npm
-
-```
-npm start
-```
